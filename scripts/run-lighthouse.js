@@ -76,3 +76,4 @@ run().catch((err) => {
   console.error('Lighthouse audit failed:', err);
   process.exit(1);
 });
+
